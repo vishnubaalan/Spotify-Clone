@@ -72,9 +72,9 @@ export const assets = {
 export const albumsData = [
     {   
         id:0,
-        name: "Top 50 Global",
+        name: "Leo Dass 🔥",
         image: img8,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Naan Dhaan da leo, Leo dass!!",
         bgColor:"#2a4365"
     },
     {   
@@ -100,7 +100,7 @@ export const albumsData = [
     },
     {   
         id:4,
-        name: "Mega Hits,",
+        name: "Mega Hits",
         image: img11,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#234e52"
@@ -117,7 +117,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Jd Intro",
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -125,7 +125,7 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Hunter Vantaar",
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -133,7 +133,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Master the blaster",
         image: img3,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -141,7 +141,7 @@ export const songsData = [
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Petta - Theme",
         image: img4,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -149,7 +149,7 @@ export const songsData = [
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Jd vs Bhavani - Theme",
         image: img5,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -157,7 +157,7 @@ export const songsData = [
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Clean shot",
         image: img14    ,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -165,7 +165,7 @@ export const songsData = [
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "VIP Theme",
         image: img7,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -173,7 +173,7 @@ export const songsData = [
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Raghuvaran's Philosophy",
         image: img12,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
